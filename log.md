@@ -1,4 +1,5 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 27, Monday
-I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 21: Jan 21, Saturday
+- Made a [Random Quote Machine](https://github.com/FlameFractal/FreeCodeCamp-Practice/tree/master/RandomQuoteMachine) for FCC assignment and,
+- [Python script](https://github.com/FlameFractal/SetRandomWallpaper) to change my desktop wallpaper every morning.
